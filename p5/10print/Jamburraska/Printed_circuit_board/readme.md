@@ -1,4 +1,4 @@
-# 10 Printed circuit board | [launch / open](http://dsii-2016-unirsm.github.io/p5/10print/jamburraska)
+# 10 Printed circuit board | [launch / open](http://dsii-2016-unirsm.github.io/p5/10print/Jamburraska)
 _10 Print porting to P5js_  
 Disegna un circuito stampato seguendo il principio di casualità e ripetizione di 10 print.
 
